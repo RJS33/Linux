@@ -1,0 +1,100 @@
+   0 whoami
+   1 pwd
+   2 ls
+   3 ls --help
+   4 is
+   5 ls
+   6 ls -a
+   7 ls -l
+   8 ls -la
+   9 cd
+  10 cd ..
+  11 pwd
+  12 ls
+  13 pwd
+  14 history
+  15 ls -al
+  16 cd /home
+  17 pwd
+  18 ls
+  19 ls -a
+  20 mkdir
+  21 mkdir user1
+  22 ls
+  23 cd / user1
+  24 home
+  25 cd /home
+  26 ls -a
+  27 cd /user1
+  28 cd user1/
+  29 mkdir task1
+  30 ls
+  31 cd / task1
+  32 cd task1
+  33 mkdir touch
+  34 ls home
+  35 ls
+  36 home/user1/task1# mk
+  37 cd /home
+  38 clear
+  39 l
+  40 ls
+  41 mkdir user1
+  42 mkdir user2
+  43 ls
+  44 cd user2
+  45 mkdir task2
+  46 ls
+  47 cd task2
+  48 touch file2.txt
+  49 cd /home
+  50 ls
+  51 ls -l
+  52 tree
+  53 is -R
+  54 ls -R
+  55 clear
+  56 mkdir user3/task3/
+  57 clear
+  58 mkdir --help
+  59 mkdir -p user3/task3/
+  60 cd user3/task3#
+  61 cd user3/task3/
+  62 touch file3.txt
+  63 cd
+  64 pwd
+  65 mkdir -p /home/user4/task4
+  66 touch /home/user4/task4/file4.txt
+  67 tree /home
+  68 ls /bin
+  69 clear
+  70 pwd
+  71 tree
+  72 tree /home
+  73 cp /home/user2/task2/file2.txt /opt
+  74 ls /opt
+  75 cp /home/user2/task2/file2.txt /opt/new_file2.txt
+  76 ls /opt
+  77 clear
+  78 ls /opt
+  79 cp /home/user2/task2 /opt
+  80 cp -r /home/user2/task2 /opt
+  81 ls
+  82 ls /opt/
+  83 cp -r /home/user2/task2 /opt/new_task2
+  84 ls / opt/
+  85 clear
+  86 tree /home/
+  87 mv / home/user3 /opt
+  88 tree /home
+  89 clear
+  90 ls
+  91 mv readme.txt .readme.txt
+  92 ls
+  93 ls -a
+  94 clear
+  95 tree /home
+  96 rm --help
+  97 rm -r /home/user4
+  98 history
+  99 history > history_29.txt
