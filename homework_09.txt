@@ -1,0 +1,63 @@
+   0 mkdir /home/user/start/
+   1 mkdir -p /home/user/start
+   2 ls -l
+   3 tree /home
+   4 echo "Start" >> /home/user/start/1.txt
+   5 date
+   6 date >> /home/user/start/1.txt 
+   7 mkdir /opt/task
+   8 ls -R
+   9 cp /home/user/start/1.txt  /opt/task/start.txt
+  10 ls -a
+  11 ls -a /
+  12 ls -la /
+  13 ls -a / | tail -n -4
+  14 ls -a / | tail -4 >> /opt/task/start.txt 
+  15 cd /tmp/
+  16 cd /tmp/testnew
+  17 mkdir /tmp/testnew
+  18 cd
+  19 tree /home
+  20 ls -a
+  21 cp -p /opt/task/ /tmp/testnew/
+  22 cp -p /opt/task /tmp/testnew
+  23 pwd
+  24 ls -l
+  25 ls -l /
+  26 cp /opt/task /tmp/testnew
+  27 cd /opt/task
+  28 cp /task /tmp/testnew/
+  29 cp /task -p /tmp/testnew/
+  30 cp -p /task  /tmp/testnew/
+  31 cp -p /task  /tmp/testnew/task
+  32 cd
+  33 cp -p / opt /task  /tmp/testnew/task
+  34 cp -p opt/task /tmp/testnew/task
+  35 cp -p opt/task/ /tmp/testnew/task/
+  36 cp -r opt/task/ /tmp/testnew/task/
+  37 cp -r opt/task /tmp/testnew/task
+  38 cp -R opt/task /tmp/testnew/task
+  39 tree /opt/
+  40 cp - R task /tmp/testnew/
+  41 cp - R task /tmp/testnew
+  42 history
+  43 cp -r task
+  44 ls tmp/testnew
+  45 ls tmp/testnew/
+  46 cd tmp/testnew/
+  47 cd
+  48 ls -a
+  49 ls -la
+  50 cp -p task testnew
+  51 cp -p /task /testnew
+  52 history | tail -5
+  53 history | tail -5 >> /opt/task/ temu/
+  54 history | tail -5 >> /opt/task/start.txt 
+  55 rmdir /opt/task/start.txt 
+  56 rmdir -r /opt/task
+  57 cd /opt
+  58 tree /opt
+  59 cd
+  60 history
+  61 history > homework_09
+  62 history > homework_09.txt
